@@ -1,5 +1,15 @@
 # Release History
 
+### 0.6.0 / 2021-01-19
+
+#### Features
+
+* Support billing account parameters for path helpers
+
+#### Documentation
+
+* Timeout config description correctly gives the units as seconds.
+
 ### 0.5.3 / 2020-10-29
 
 #### Bug Fixes
